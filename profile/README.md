@@ -1,4 +1,4 @@
-## Lycodump
+## Lycoprjkt
 This organization contains repositories for building AOSP ROMs for Redmi Note 13 4G/NFC
 <img align="right" width="180" height="180" src="https://celltronics.lk/wp-content/uploads/2024/08/Xiaomi-Redmi-Note-13-4G-1.jpg">
 ### Repositories
